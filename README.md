@@ -19,7 +19,7 @@ No arquivo `environment.json`, certifique-se de configurar as seguintes chaves p
 *   **owner**: Insira o seu nome de usuário do GitHub.
 
 
-### 🧪  Execução via Postman
+### 🧪 Execução via Postman
 
 Para rodar os testes manualmente, siga estes passos:
 
@@ -28,4 +28,3 @@ Para rodar os testes manualmente, siga estes passos:
 3. **Execução**: Abra a collection, clique no botão **Run Collection** e depois em **Run GitHub API Tests**.
 
 
-Link Collections Postman: https://orange-flare-282760.postman.co/workspace/My-Workspace~b9a38151-19b9-4bdd-8db2-02d39e41f357/collection/15801326-6c8f37be-4239-4d86-a077-54e698440b48?action=share&creator=15801326&active-environment=15801326-536a6983-83f6-4e1f-b2d1-acfbaf614270
